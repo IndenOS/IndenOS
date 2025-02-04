@@ -6,11 +6,6 @@ IndenOS is a custom operating system designed to be independent, providing a pla
 
 Please note that **IndenOS is still in the early stages of development**. Many features have not yet been implemented, and there are still many areas for improvement. This project is a work in progress, so expect missing functionality and incomplete components.
 
-## Features
-- Simple kernel built with basic functionality.
-- Text mode output for the early stages of development.
-- Minimalistic design for users interested in low-level system programming.
-
 ## Getting Started
 
 ### Prerequisites
