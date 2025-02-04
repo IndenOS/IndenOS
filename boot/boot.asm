@@ -21,6 +21,8 @@ init_protected_mode:
 
     mov esi, message
     call print_string
+    mov eax, 0x1000  
+    jmp eax
 
     jmp $
 
